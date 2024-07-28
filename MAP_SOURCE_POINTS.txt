@@ -1,0 +1,11 @@
+SOURCE:
+2080x1430 - bottom rigth
+2550x450 - top rigth
+1015x345 - top left
+1x970 - bottom left
+
+MAP:
+332x450 - bottom rigth
+401x15 - top rigth
+13x14 - top left
+67x450 - bottom left
